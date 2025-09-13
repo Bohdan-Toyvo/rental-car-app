@@ -1,0 +1,26 @@
+.details {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.details img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.readMore {
+  padding: 8px 16px;
+  background-color: #222;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.readMore:hover {
+  background-color: #444;
+}
+
